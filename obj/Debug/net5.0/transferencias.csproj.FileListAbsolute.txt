@@ -1,0 +1,15 @@
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/bin/Debug/net5.0/transferencias.deps.json
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/bin/Debug/net5.0/transferencias.runtimeconfig.json
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/bin/Debug/net5.0/transferencias.runtimeconfig.dev.json
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/bin/Debug/net5.0/transferencias.dll
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/bin/Debug/net5.0/ref/transferencias.dll
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/bin/Debug/net5.0/transferencias.pdb
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.csprojAssemblyReference.cache
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.AssemblyInfoInputs.cache
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.AssemblyInfo.cs
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.csproj.CoreCompileInputs.cache
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.dll
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/ref/transferencias.dll
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.pdb
+/Users/f1mourao/Documents/DigitalInovationOne/transferencias/obj/Debug/net5.0/transferencias.genruntimeconfig.cache
